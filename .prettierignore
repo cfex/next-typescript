@@ -1,0 +1,8 @@
+.next
+.vercel
+cache
+.cache
+package.json
+package-lock.json
+public
+README.md
